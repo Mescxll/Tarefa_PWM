@@ -2,7 +2,7 @@
 Nesse projeto utilizamos o módulo PWM (Pulse Width Modulation), presente no RP2040, para simular o controle do ângulo de um servomotor. Tarefa desenvolvida para a Capacitação EmbarcaTech por Maria Eduarda Campos.
 
 ### Video de demonstração
-//link
+https://youtu.be/NNBGkJpH37A?si=hZfb1oUsMXmsbVz7
 
 ### Funcionalidades
 
